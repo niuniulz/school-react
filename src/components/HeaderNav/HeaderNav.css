@@ -1,0 +1,21 @@
+.nav-header-wrapper{
+  background: #fff;
+  width: 100%;
+}
+
+.nav-header{
+  width: 1200px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  height: 56px;
+}
+
+.logo{
+  height: 32px;
+}
+
+.nav-list{
+  display: flex;
+  margin-left: 30px;
+}
